@@ -1,0 +1,1 @@
+import{g as e}from"./dayjs.min.DZyl58SH.js";import{r as t}from"./katex.D2Q1EE2T.js";var r=t();const o=e(r),p=Object.freeze(Object.defineProperty({__proto__:null,default:o},Symbol.toStringTag,{value:"Module"}));export{p as k};

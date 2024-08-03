@@ -1,0 +1,5 @@
+import{_ as n,a as c,b as s}from"./chunks/PageInfo.vue_vue_type_script_setup_true_lang.BCVHfIj7.js";import{_ as d,c as _,I as e,j as a,a as t,o as l}from"./chunks/framework.DGCt2JJv.js";import"./chunks/dayjs.min.DZyl58SH.js";const w=JSON.parse('{"title":"radix-ui","description":"","frontmatter":{},"headers":[],"relativePath":"react/React好用的插件/radix-ui.md","filePath":"react/React好用的插件/radix-ui.md","lastUpdated":1719758327000}'),u={name:"react/React好用的插件/radix-ui.md"},m=a("h1",{id:"radix-ui",tabindex:"-1"},[t("radix-ui "),a("a",{class:"header-anchor",href:"#radix-ui","aria-label":'Permalink to "radix-ui"'},"​")],-1),p=a("pre",null,[a("code",null,`"@radix-ui/react-alert-dialog": "^1.0.4",
+"@radix-ui/react-dialog": "^1.0.4",
+"@radix-ui/react-dropdown-menu": "^2.0.5",
+"@radix-ui/react-switch": "^1.0.3",
+`)],-1),x=a("h2",{id:"contributors",tabindex:"-1"},[t("Contributors "),a("a",{class:"header-anchor",href:"#contributors","aria-label":'Permalink to "Contributors"'},"​")],-1);function h(f,b,$,g,P,k){const r=n,i=c,o=s;return l(),_("div",null,[m,p,x,e(r,{readTime:"1",words:"33"}),e(i),e(o)])}const B=d(u,[["render",h]]);export{w as __pageData,B as default};
